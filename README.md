@@ -10,6 +10,11 @@ If you'd like to add new levels, change *MAX_LEVEL* constant in *MainActivity.ja
 <img src="https://albertof.com/img/mazegame/2.png" alt="pic" width="300"/>
 <img src="https://albertof.com/img/mazegame/3.png" alt="pic" width="300"/>
 
+## How to play
+- To move the hero, just tap on nearby cells (hero can move only one step at a time). 
+- Reach the goal.
+- Avoid the monsters!
+
 ## Level file structure
 *`<size of elements matrix>` `<size of element in pixels> <number of lives>`*<br />
 *`<elements matrix>`*<br />
