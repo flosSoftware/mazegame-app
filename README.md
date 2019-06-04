@@ -1,8 +1,8 @@
 # mazegame-app
 
-This is a maze game emulator with custom levels (just edit raw/livXXX.txt) developed for Android systems. <br />
+This is a maze game emulator with custom levels (just edit *app/src/main/res/raw/livXXX.txt*) developed for Android systems. <br />
 The purpose of the game is trying to teach Java OOP and GUI programming to high school students (so ... sorry for italian comments in source code!).<br />
-If you'd like to add new levels, change MAX_LEVEL constant in MainActivity.java.
+If you'd like to add new levels, change *MAX_LEVEL* constant in *MainActivity.java*.
 
 ## Some screenshots of the game in action!
 <img src="https://albertof.com/img/mazegame/0.png" alt="pic" width="300"/>
